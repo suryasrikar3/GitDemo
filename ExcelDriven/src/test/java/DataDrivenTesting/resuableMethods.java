@@ -8,6 +8,8 @@ public class resuableMethods {
 	{
 		JsonPath js1=new JsonPath(response);
 		return js1;
+		
+	
 	}
 
 	

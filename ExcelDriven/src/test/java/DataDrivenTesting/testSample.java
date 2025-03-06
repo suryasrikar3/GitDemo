@@ -14,6 +14,9 @@ public class testSample {
   {
 	  System.out.println(data.get(i));
   }
+  
+  System.out.println("SampleTest");
+  System.out.println("SampleTestGit");
 	}
 
 }
